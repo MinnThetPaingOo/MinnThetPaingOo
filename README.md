@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Thet Paing Oo Minn 👋
 
-<!--
-**MinnThetPaingOo/MinnThetPaingOo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Senior Full-Stack Developer experienced in building scalable web and mobile applications.
 
-Here are some ideas to get you started:
+- Specialized in MERN Stack
+- Strong focus on clean architecture and performance
+- Experience with real-world systems and APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Frontend:
+- React.js, Next.js, Vue.js, React Native
+
+Backend:
+- Express.js, Java (Spring Boot)
+
+Database:
+- MySQL, MongoDB
+
+## 📌 What I Build
+- Full-Stack Web Applications
+- Scalable Backend APIs
+- Modern Frontend Interfaces (React / Next.js)
+- Cross-platform Mobile Apps (React Native)
+
+## 📫 Contact
+- Email: minnthetpaingoo@gmail.com
+- Portfolio: https://thetpaingoo.vercel.app
